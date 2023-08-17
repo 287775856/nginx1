@@ -17,6 +17,4 @@ jobs:
       run: ./auto/configure
     - name: make
       run: make
-    - name: make install
-      run: make install
 
